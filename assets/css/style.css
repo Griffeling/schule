@@ -145,10 +145,10 @@ body {
 }
 .wardrobe {
   position: absolute;
-  width: 115px;
+  width: 120px;
   height: 160px;
   background-color: #a78b71;
-  left: 1310px;
+  left: 1302px;
   border-radius: 0px 0px 20px 20px;
   border: 3px solid #9b7a4e;
 }
@@ -313,6 +313,23 @@ body {
   width: 3px;
   height: 50px;
   background-color: #f8e0c2;
-  left: 1310px;
+  left: 1302px;
   top: 30px;
+}
+.space12 {
+  position: absolute;
+  width: 40px;
+  height: 3px;
+  background-color: #f8e0c2;
+  left: 1447px;
+  top: 163px;
+}
+.wardrobe2 {
+  position: absolute;
+  width: 120px;
+  height: 80px;
+  background-color: #a78b71;
+  border-radius: 0px 0px 20px 20px;
+  left: 1021px;
+  border: 3px solid #9b7a4e;
 }
