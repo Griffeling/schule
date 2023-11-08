@@ -13,8 +13,8 @@ body {
 }
 .second {
   /* overflow: auto; */
-  width: 155px;
-  height: 82px;
+  width: 137px;
+  height: 88px;
   background-color: rgb(248, 224, 194);
   display: block;
   margin-left: 1316px;
@@ -105,8 +105,8 @@ body {
   width: 90px;
   height: 230px;
   background-color: #f0c692;
-  left: 1693px;
-  top: 482px;
+  left: 1686px;
+  top: 488px;
   border-bottom: 3px solid #9b7a4e;
   border-right: 3px solid #9b7a4e;
   border-top: 3px solid #9b7a4e;
@@ -135,11 +135,11 @@ body {
 }
 .head_teacher1 {
   position: absolute;
-  width: 73px;
+  width: 77px;
   height: 160px;
   background-color: #b29feaa1;
   border: 3px solid #9b7a4e;
-  left: 1427px;
+  left: 1423px;
   top: 0px;
   border-radius: 0px 0px 20px 20px;
 }
@@ -148,7 +148,7 @@ body {
   width: 120px;
   height: 160px;
   background-color: #a78b71;
-  left: 1302px;
+  left: 1299px;
   border-radius: 0px 0px 20px 20px;
   border: 3px solid #9b7a4e;
 }
@@ -313,7 +313,7 @@ body {
   width: 3px;
   height: 50px;
   background-color: #f8e0c2;
-  left: 1302px;
+  left: 1299px;
   top: 15px;
 }
 .space12 {
@@ -326,18 +326,19 @@ body {
 }
 .wardrobe2 {
   position: absolute;
-  width: 90px;
-  height: 83px;
+  width: 93px;
+  height: 86px;
   background-color: #a78b71;
-  left: 1051px;
-  border: 3px solid #9b7a4e;
+  left: 1066px;
+  border-right: 3px solid #9b7a4e;
+  border-bottom: 3px solid #9b7a4e;
 }
 .psiholog {
   position: absolute;
-  width: 90px;
+  width: 93px;
   height: 80px;
   background-color: #6fbfbadf;
-  left: 1054px;
+  left: 1066px;
   top: 89px;
   border-radius: 0px 0px 20px 0px;
   border-right: 3px solid #9b7a4e;
@@ -348,24 +349,24 @@ body {
   width: 3px;
   height: 50px;
   background-color: #f8e0c2;
-  left: 1144px;
+  left: 1159px;
   top: 15px;
 }
 .wardrobe3 {
   position: absolute;
   width: 117px;
   height: 166px;
-  background-color: #581e1e97;
+  background-color: #a78b71;
   border-radius: 0px 0px 0px 20px;
   border: 3px solid #9b7a4e;
-  left: 931px;
+  left: 943px;
 }
 .space14 {
   position: absolute;
   width: 60px;
   height: 3px;
   background-color: #f8e0c2;
-  left: 965px;
+  left: 980px;
   top: 169px;
 }
 .space15 {
@@ -373,6 +374,6 @@ body {
   width: 50px;
   height: 3px;
   background-color: #f8e0c2;
-  left: 1075px;
+  left: 1087px;
   top: 169px;
 }
