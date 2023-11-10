@@ -5,11 +5,11 @@ body {
 
 .first {
   position: relative;
-  width: 400px;
+  width: 440px;
   height: 400px;
   background-color: rgb(248, 224, 194);
   display: block;
-  margin-left: 1200px;
+  margin-left: 1145px;
   margin-top: 0px;
 }
 .second {
@@ -21,7 +21,7 @@ body {
   height: 88px;
   background-color: rgb(248, 224, 194);
   display: block;
-  margin-left: 1331px;
+  margin-left: 1316px;
   /* margin-top: 0px; */
 }
 
@@ -389,8 +389,9 @@ body {
   left: 77px;
   top: 560px;
   border: 3px solid #9b7a4e;
-} 
-.stairs2 {
+}
+
+.stairs3 {
   position: absolute;
   width: 108px;
   height: 6px;
@@ -398,7 +399,7 @@ body {
   left: 15px;
   top: 15px;
 }
-.stairs3 {
+.stairs4 {
   position: absolute;
   width: 108px;
   height: 6px;
@@ -406,7 +407,7 @@ body {
   left: 15px;
   top: 25px;
 }
-.stairs4 {
+.stairs5 {
   position: absolute;
   width: 108px;
   height: 6px;
@@ -414,7 +415,7 @@ body {
   left: 15px;
   top: 35px;
 }
-.stairs5 {
+.stairs6 {
   position: absolute;
   width: 108px;
   height: 6px;
@@ -422,7 +423,7 @@ body {
   left: 15px;
   top: 45px;
 }
-.stairs6 {
+.stairs7 {
   position: absolute;
   width: 108px;
   height: 6px;
@@ -430,7 +431,7 @@ body {
   left: 15px;
   top: 55px;
 }
-.stairs7 {
+.stairs8 {
   position: absolute;
   width: 108px;
   height: 6px;
@@ -438,18 +439,279 @@ body {
   left: 15px;
   top: 65px;
 }
-.stairs8 {
-  position: absolute;
-  width: 108px;
-  height: 6px;
-  background-color: #9b7a4e;
-  left: 15px;
-  top: 75px;
-}
 .peregorodka {
   position: absolute;
-  width: 10px;
+  width: 3px;
   height: 395px;
   background-color: #9b7a4e9f;
-  left: 195px;
+  left: 240px;
+}
+.headstairs {
+  position: absolute;
+  width: 117px;
+  height: 70px;
+  background-color: #deb37f80;
+  left: 10px;
+  top: 9px;
+  border-radius: 10px;
+}
+.shkaf1 {
+  position: absolute;
+  width: 5px;
+  height: 49px;
+  background-color: #c68866;
+}
+.shkaf2 {
+  position: absolute;
+  width: 5px;
+  height: 49px;
+  background-color: #c68866;
+  left: 132px;
+}
+.peregorodka2 {
+  position: absolute;
+  width: 200px;
+  height: 3px;
+  background-color: #9b7a4e9f;
+  top: 398px;
+}
+.peregorodka3 {
+  position: absolute;
+  width: 160px;
+  height: 3px;
+  background-color: #9b7a4e9f;
+  top: 398px;
+  left: 280px;
+}
+.kab9 {
+  position: absolute;
+  width: 168px;
+  height: 170px;
+  background-color: #eac89f;
+  top: 225px;
+  border-top: 3px solid #9b7a4e;
+  border-right: 3px solid #9b7a4e;
+  border-radius: 0px 10px 0px 0px;
+}
+.party {
+  position: absolute;
+  width: 15px;
+  height: 31px;
+  background-color: #8a9b85;
+  top: 2px;
+  left: 2px;
+}
+.party2 {
+  position: absolute;
+  width: 41px;
+  height: 15px;
+  background-color: #8a9b85;
+  top: 18px;
+  left: 2px;
+}
+.party3 {
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 36px;
+  left: 2px;
+}
+.party4 {
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 63px;
+  left: 2px;
+}
+.party5 {
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 90px;
+  left: 2px;
+}
+.party6 {
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 117px;
+  left: 2px;
+}
+.party7 {
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 144px;
+  left: 2px;
+}
+.party8 {
+  position: absolute;
+  width: 25px;
+  height: 15px;
+  background-color: #9c958cb6;
+  top: 154px;
+  left: 22px;
+}
+.party9 {
+  position: absolute;
+  width: 25px;
+  height: 15px;
+  background-color: #9c958cb6;
+  top: 154px;
+  left: 49px;
+}
+.party10 {
+  position: absolute;
+  width: 25px;
+  height: 15px;
+  background-color: #9c958cb6;
+  top: 154px;
+  left: 76px;
+}
+.party11 {
+  position: absolute;
+  width: 25px;
+  height: 15px;
+  background-color: #9c958cb6;
+  top: 154px;
+  left: 103px;
+}
+.party12 {
+  position: absolute;
+  width: 25px;
+  height: 15px;
+  background-color: #9c958cb6;
+  top: 154px;
+  left: 130px;
+}
+.party13 {
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  left: 53px;
+  top: 63px;
+}
+.party14 {
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  left: 53px;
+  top: 90px;
+}
+.party15 {
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  left: 53px;
+  top: 117px;
+}
+.party16 {
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  left: 81px;
+  top: 37px;
+}
+.party17 {
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  left: 81px;
+  top: 64px;
+}
+.party18 {
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  left: 81px;
+  top: 91px;
+}
+.party19 {
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  left: 81px;
+  top: 118px;
+}
+.party20 {
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  left: 107px;
+  top: 37px;
+}
+.party21 {
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  left: 107px;
+  top: 64px;
+}
+.party22 {
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  left: 107px;
+  top: 91px;
+}
+.party23 {
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  left: 107px;
+  top: 118px;
+}
+.party24 {
+  position: absolute;
+  width: 18px;
+  height: 10px;
+  background-color: #9c958cb6;
+  left: 126px;
+  top: 3px;
+}
+.party25 {
+  position: absolute;
+  width: 64px;
+  height: 6px;
+  background-color: #8a9b85;
+  left: 57px;
+}
+.shkaf3 {
+  position: absolute;
+  width: 10px;
+  height: 20px;
+  background-color: #c68866;
+  left: 158px;
+  top: 134px;
+}
+.shkaf4 {
+  position: absolute;
+  width: 10px;
+  height: 48px;
+  background-color: #c68866;
+  left: 158px;
+  top: 5px;
+}
+.space16 {
+  width: 3px;
+  height: 40px;
+  background-color: #f8e0c2;
+  margin-left: 168px;
+  margin-top: 89px;
 }
