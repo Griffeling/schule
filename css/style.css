@@ -933,3 +933,7 @@ body {
   left: 158px;
   top: 134px;
 }
+a{
+  cursor: pointer;
+
+}
