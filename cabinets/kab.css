@@ -16,9 +16,97 @@ body {
   border-bottom: 3px solid #9b7a4e;
   border-right: 3px solid #9b7a4e;
   border-radius: 0px 0px 10px 0px;
-  transform: scale(5);
+  transform: scale(4.5);
   transform-origin: top left;
   margin-left: 30%;
+}
+.party29:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party28:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party30:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party31:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party32:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party33:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party34:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party35:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party36:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party37:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party38:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party39:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party40:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party41:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party42:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party43:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party44:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party45:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party46:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party47:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party48:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party49:hover {
+  transform: scale(1.1);
+  z-index: 1;
 }
 .party26 {
   position: absolute;
@@ -37,6 +125,7 @@ body {
   left: 2px;
 }
 .party28 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -45,6 +134,7 @@ body {
   left: 2px;
 }
 .party29 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -53,6 +143,7 @@ body {
   left: 2px;
 }
 .party30 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -61,6 +152,7 @@ body {
   left: 2px;
 }
 .party31 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -69,6 +161,7 @@ body {
   left: 2px;
 }
 .party32 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -77,6 +170,7 @@ body {
   left: 2px;
 }
 .party33 {
+  transition: all 300ms;
   position: absolute;
   width: 25px;
   height: 15px;
@@ -85,6 +179,7 @@ body {
   left: 22px;
 }
 .party34 {
+  transition: all 300ms;
   position: absolute;
   width: 25px;
   height: 15px;
@@ -93,6 +188,7 @@ body {
   left: 49px;
 }
 .party35 {
+  transition: all 300ms;
   position: absolute;
   width: 25px;
   height: 15px;
@@ -101,6 +197,7 @@ body {
   left: 76px;
 }
 .party36 {
+  transition: all 300ms;
   position: absolute;
   width: 25px;
   height: 15px;
@@ -109,6 +206,7 @@ body {
   left: 103px;
 }
 .party37 {
+  transition: all 300ms;
   position: absolute;
   width: 25px;
   height: 15px;
@@ -117,6 +215,7 @@ body {
   left: 130px;
 }
 .party38 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -125,6 +224,7 @@ body {
   top: 63px;
 }
 .party39 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -133,6 +233,7 @@ body {
   top: 90px;
 }
 .party40 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -141,6 +242,7 @@ body {
   top: 117px;
 }
 .party41 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -149,6 +251,7 @@ body {
   top: 37px;
 }
 .party42 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -157,6 +260,7 @@ body {
   top: 64px;
 }
 .party43 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -165,6 +269,7 @@ body {
   top: 91px;
 }
 .party44 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -173,6 +278,7 @@ body {
   top: 118px;
 }
 .party45 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -181,6 +287,7 @@ body {
   top: 37px;
 }
 .party46 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -189,6 +296,7 @@ body {
   top: 64px;
 }
 .party47 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -197,6 +305,7 @@ body {
   top: 91px;
 }
 .party48 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -205,6 +314,7 @@ body {
   top: 118px;
 }
 .party49 {
+  transition: all 300ms;
   position: absolute;
   width: 18px;
   height: 10px;
