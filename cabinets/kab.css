@@ -5,8 +5,6 @@ body {
   /* text-align: center; */
 }
 
-
-
 .kab8 {
   /* position: absolute; */
   width: 168px;
@@ -346,6 +344,7 @@ body {
   top: 5px;
 }
 .space16 {
+  position: absolute;
   width: 3px;
   height: 40px;
   background-color: #f8e0c2;
@@ -353,7 +352,7 @@ body {
   margin-top: 89px;
 }
 .kab9 {
-margin-left: 30%;
+  margin-left: 30%;
   /* text-align: center; */
   cursor: pointer;
   /* position: absolute; */
@@ -366,9 +365,96 @@ margin-left: 30%;
   border-radius: 0px 10px 0px 0px;
   transform: scale(5);
   transform-origin: top left;
-  
 }
-.party {
+.party3:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party4:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party5:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party6:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party7:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party8:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party9:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party10:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party11:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party12:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party13:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party14:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party15:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party16:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party17:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party18:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party19:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party20:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party21:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party22:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party23:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party24:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party1 {
   position: absolute;
   width: 15px;
   height: 31px;
@@ -385,6 +471,7 @@ margin-left: 30%;
   left: 2px;
 }
 .party3 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -393,6 +480,7 @@ margin-left: 30%;
   left: 2px;
 }
 .party4 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -401,6 +489,7 @@ margin-left: 30%;
   left: 2px;
 }
 .party5 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -409,6 +498,7 @@ margin-left: 30%;
   left: 2px;
 }
 .party6 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -417,6 +507,7 @@ margin-left: 30%;
   left: 2px;
 }
 .party7 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -425,6 +516,7 @@ margin-left: 30%;
   left: 2px;
 }
 .party8 {
+  transition: all 300ms;
   position: absolute;
   width: 25px;
   height: 15px;
@@ -433,6 +525,7 @@ margin-left: 30%;
   left: 22px;
 }
 .party9 {
+  transition: all 300ms;
   position: absolute;
   width: 25px;
   height: 15px;
@@ -441,6 +534,7 @@ margin-left: 30%;
   left: 49px;
 }
 .party10 {
+  transition: all 300ms;
   position: absolute;
   width: 25px;
   height: 15px;
@@ -449,6 +543,7 @@ margin-left: 30%;
   left: 76px;
 }
 .party11 {
+  transition: all 300ms;
   position: absolute;
   width: 25px;
   height: 15px;
@@ -457,6 +552,7 @@ margin-left: 30%;
   left: 103px;
 }
 .party12 {
+  transition: all 300ms;
   position: absolute;
   width: 25px;
   height: 15px;
@@ -465,6 +561,7 @@ margin-left: 30%;
   left: 130px;
 }
 .party13 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -473,6 +570,7 @@ margin-left: 30%;
   top: 63px;
 }
 .party14 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -481,6 +579,7 @@ margin-left: 30%;
   top: 90px;
 }
 .party15 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -489,6 +588,7 @@ margin-left: 30%;
   top: 117px;
 }
 .party16 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -497,6 +597,7 @@ margin-left: 30%;
   top: 37px;
 }
 .party17 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -505,6 +606,7 @@ margin-left: 30%;
   top: 64px;
 }
 .party18 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -513,6 +615,7 @@ margin-left: 30%;
   top: 91px;
 }
 .party19 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -521,6 +624,7 @@ margin-left: 30%;
   top: 118px;
 }
 .party20 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -529,6 +633,7 @@ margin-left: 30%;
   top: 37px;
 }
 .party21 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -537,6 +642,7 @@ margin-left: 30%;
   top: 64px;
 }
 .party22 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -545,6 +651,7 @@ margin-left: 30%;
   top: 91px;
 }
 .party23 {
+  transition: all 300ms;
   position: absolute;
   width: 15px;
   height: 25px;
@@ -553,6 +660,7 @@ margin-left: 30%;
   top: 118px;
 }
 .party24 {
+  transition: all 300ms;
   position: absolute;
   width: 18px;
   height: 10px;
@@ -561,6 +669,7 @@ margin-left: 30%;
   top: 3px;
 }
 .party25 {
+  transition: all 300ms;
   position: absolute;
   width: 64px;
   height: 6px;
@@ -574,4 +683,12 @@ margin-left: 30%;
   background-color: #c68866;
   left: 158px;
   top: 134px;
+}
+.shkaf4 {
+  position: absolute;
+  width: 10px;
+  height: 48px;
+  background-color: #c68866;
+  left: 158px;
+  top: 5px;
 }
