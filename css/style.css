@@ -493,228 +493,27 @@ body {
   border-bottom: 3px solid #9b7a4e;
   border-right: 3px solid #9b7a4e;
   border-radius: 0px 0px 10px 0px;
+  transition: all 300ms;
 }
-.party26 {
+.space17 {
   position: absolute;
-  width: 15px;
-  height: 31px;
-  background-color: #8a9b85;
-  top: 2px;
-  left: 2px;
-}
-.party27 {
-  position: absolute;
-  width: 41px;
-  height: 15px;
-  background-color: #8a9b85;
-  top: 18px;
-  left: 2px;
-}
-.party28 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  top: 36px;
-  left: 2px;
-}
-.party29 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  top: 63px;
-  left: 2px;
-}
-.party30 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  top: 90px;
-  left: 2px;
-}
-.party31 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  top: 117px;
-  left: 2px;
-}
-.party32 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  top: 144px;
-  left: 2px;
-}
-.party33 {
-  position: absolute;
-  width: 25px;
-  height: 15px;
-  background-color: #9c958cb6;
-  top: 154px;
-  left: 22px;
-}
-.party34 {
-  position: absolute;
-  width: 25px;
-  height: 15px;
-  background-color: #9c958cb6;
-  top: 154px;
-  left: 49px;
-}
-.party35 {
-  position: absolute;
-  width: 25px;
-  height: 15px;
-  background-color: #9c958cb6;
-  top: 154px;
-  left: 76px;
-}
-.party36 {
-  position: absolute;
-  width: 25px;
-  height: 15px;
-  background-color: #9c958cb6;
-  top: 154px;
-  left: 103px;
-}
-.party37 {
-  position: absolute;
-  width: 25px;
-  height: 15px;
-  background-color: #9c958cb6;
-  top: 154px;
-  left: 130px;
-}
-.party38 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 53px;
-  top: 63px;
-}
-.party39 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 53px;
-  top: 90px;
-}
-.party40 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 53px;
-  top: 117px;
-}
-.party41 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 81px;
-  top: 37px;
-}
-.party42 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 81px;
-  top: 64px;
-}
-.party43 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 81px;
-  top: 91px;
-}
-.party44 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 81px;
-  top: 118px;
-}
-.party45 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 107px;
-  top: 37px;
-}
-.party46 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 107px;
-  top: 64px;
-}
-.party47 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 107px;
-  top: 91px;
-}
-.party48 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 107px;
-  top: 118px;
-}
-.party49 {
-  position: absolute;
-  width: 18px;
-  height: 10px;
-  background-color: #9c958cb6;
-  left: 126px;
-  top: 3px;
-}
-.party50 {
-  position: absolute;
-  width: 64px;
-  height: 6px;
-  background-color: #8a9b85;
-  left: 57px;
-}
-.shkaf5 {
-  position: absolute;
-  width: 10px;
-  height: 20px;
-  background-color: #c68866;
-  left: 158px;
-  top: 134px;
-}
-.shkaf6 {
-  position: absolute;
-  width: 10px;
-  height: 48px;
-  background-color: #c68866;
-  left: 158px;
-  top: 5px;
-}
-.space16 {
   width: 3px;
   height: 40px;
   background-color: #f8e0c2;
-  margin-left: 168px;
-  margin-top: 89px;
+  left: 168px;
+  top: 110px;
+}
+.kab8:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.kab8:hover p {
+  visibility: visible;
+  transition: all 300ms;
+}
+.kab8 p {
+  position: absolute;
+  visibility: hidden;
 }
 .kab9 {
   position: absolute;
@@ -727,6 +526,14 @@ body {
   border-radius: 0px 10px 0px 0px;
   transition: all 300ms;
 }
+.space16 {
+  position: absolute;
+  width: 3px;
+  height: 40px;
+  background-color: #f8e0c2;
+  left: 168px;
+  top: 110px;
+}
 .kab9:hover {
   transform: scale(1.1);
   z-index: 1;
@@ -736,206 +543,8 @@ body {
   transition: all 300ms;
 }
 .kab9 p {
+  position: absolute;
   visibility: hidden;
-}
-.party {
-  position: absolute;
-  width: 15px;
-  height: 31px;
-  background-color: #8a9b85;
-  top: 2px;
-  left: 2px;
-}
-.party2 {
-  position: absolute;
-  width: 41px;
-  height: 15px;
-  background-color: #8a9b85;
-  top: 18px;
-  left: 2px;
-}
-.party3 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  top: 36px;
-  left: 2px;
-}
-.party4 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  top: 63px;
-  left: 2px;
-}
-.party5 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  top: 90px;
-  left: 2px;
-}
-.party6 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  top: 117px;
-  left: 2px;
-}
-.party7 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  top: 144px;
-  left: 2px;
-}
-.party8 {
-  position: absolute;
-  width: 25px;
-  height: 15px;
-  background-color: #9c958cb6;
-  top: 154px;
-  left: 22px;
-}
-.party9 {
-  position: absolute;
-  width: 25px;
-  height: 15px;
-  background-color: #9c958cb6;
-  top: 154px;
-  left: 49px;
-}
-.party10 {
-  position: absolute;
-  width: 25px;
-  height: 15px;
-  background-color: #9c958cb6;
-  top: 154px;
-  left: 76px;
-}
-.party11 {
-  position: absolute;
-  width: 25px;
-  height: 15px;
-  background-color: #9c958cb6;
-  top: 154px;
-  left: 103px;
-}
-.party12 {
-  position: absolute;
-  width: 25px;
-  height: 15px;
-  background-color: #9c958cb6;
-  top: 154px;
-  left: 130px;
-}
-.party13 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 53px;
-  top: 63px;
-}
-.party14 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 53px;
-  top: 90px;
-}
-.party15 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 53px;
-  top: 117px;
-}
-.party16 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 81px;
-  top: 37px;
-}
-.party17 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 81px;
-  top: 64px;
-}
-.party18 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 81px;
-  top: 91px;
-}
-.party19 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 81px;
-  top: 118px;
-}
-.party20 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 107px;
-  top: 37px;
-}
-.party21 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 107px;
-  top: 64px;
-}
-.party22 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 107px;
-  top: 91px;
-}
-.party23 {
-  position: absolute;
-  width: 15px;
-  height: 25px;
-  background-color: #9c958cb6;
-  left: 107px;
-  top: 118px;
-}
-.party24 {
-  position: absolute;
-  width: 18px;
-  height: 10px;
-  background-color: #9c958cb6;
-  left: 126px;
-  top: 3px;
-}
-.party25 {
-  position: absolute;
-  width: 64px;
-  height: 6px;
-  background-color: #8a9b85;
-  left: 57px;
 }
 .shkaf3 {
   position: absolute;
@@ -944,6 +553,34 @@ body {
   background-color: #c68866;
   left: 158px;
   top: 134px;
+}
+
+.prod {
+  position: absolute;
+  width: 240px;
+  height: 90px;
+  background-color: #eac89f;
+  border-bottom: 3px solid #9b7a4e;
+  transition: all 300ms;
+}
+.space18 {
+  position: absolute;
+  width: 30px;
+  height: 3px;
+  background-color: #f8e0c2;
+  top: 90px;
+  left: 190px;
+}
+.prod:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.prod:hover p {
+  visibility: visible;
+  transition: all 300ms;
+}
+.prod p {
+  visibility: hidden;
 }
 a{
   cursor: pointer;

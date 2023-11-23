@@ -123,6 +123,7 @@ body {
   left: 2px;
 }
 .party28 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 15px;
@@ -132,6 +133,7 @@ body {
   left: 2px;
 }
 .party29 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 15px;
@@ -141,6 +143,7 @@ body {
   left: 2px;
 }
 .party30 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 15px;
@@ -150,6 +153,7 @@ body {
   left: 2px;
 }
 .party31 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 15px;
@@ -159,6 +163,7 @@ body {
   left: 2px;
 }
 .party32 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 15px;
@@ -168,6 +173,7 @@ body {
   left: 2px;
 }
 .party33 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 25px;
@@ -177,6 +183,7 @@ body {
   left: 22px;
 }
 .party34 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 25px;
@@ -186,6 +193,7 @@ body {
   left: 49px;
 }
 .party35 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 25px;
@@ -195,6 +203,7 @@ body {
   left: 76px;
 }
 .party36 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 25px;
@@ -204,6 +213,7 @@ body {
   left: 103px;
 }
 .party37 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 25px;
@@ -213,6 +223,7 @@ body {
   left: 130px;
 }
 .party38 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 15px;
@@ -222,6 +233,7 @@ body {
   top: 63px;
 }
 .party39 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 15px;
@@ -231,6 +243,7 @@ body {
   top: 90px;
 }
 .party40 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 15px;
@@ -240,6 +253,7 @@ body {
   top: 117px;
 }
 .party41 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 15px;
@@ -249,6 +263,7 @@ body {
   top: 37px;
 }
 .party42 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 15px;
@@ -258,6 +273,7 @@ body {
   top: 64px;
 }
 .party43 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 15px;
@@ -267,6 +283,7 @@ body {
   top: 91px;
 }
 .party44 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 15px;
@@ -276,6 +293,7 @@ body {
   top: 118px;
 }
 .party45 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 15px;
@@ -285,6 +303,7 @@ body {
   top: 37px;
 }
 .party46 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 15px;
@@ -294,6 +313,7 @@ body {
   top: 64px;
 }
 .party47 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 15px;
@@ -303,6 +323,7 @@ body {
   top: 91px;
 }
 .party48 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 15px;
@@ -312,6 +333,7 @@ body {
   top: 118px;
 }
 .party49 {
+  cursor: pointer;
   transition: all 300ms;
   position: absolute;
   width: 18px;
@@ -321,6 +343,7 @@ body {
   top: 3px;
 }
 .party50 {
+  cursor: pointer;
   position: absolute;
   width: 64px;
   height: 6px;
@@ -691,4 +714,27 @@ body {
   background-color: #c68866;
   left: 158px;
   top: 5px;
+}
+.space19 {
+  position: absolute;
+  width: 40px;
+  height: 3px;
+  background-color: #f0c692;
+  transform: scale(4.5);
+  transform-origin: top left;
+  left: 65%;
+  top: 5%;
+}
+.n1 {
+  position: relative;
+  width: 230px;
+  height: 160px;
+  position: absolute;
+  background-color: #f0c692;
+  border: 3px solid #9b7a4e;
+  border-radius: 20px 0px 0px 0px;
+  transform: scale(4.5);
+  transform-origin: top left;
+  left: 23%;
+  top: 5%;
 }
