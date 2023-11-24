@@ -46,13 +46,23 @@ body {
 }
 .space1 {
   position: absolute;
-  width: 60px;
-  height: 50px;
+  width: 40px;
+  height: 6px;
   background-color: #f0c692;
-  left: 1430px;
-  top: 234px;
+  left: 18px;
 }
-
+.n1 {
+  width: 230px;
+  height: 163px;
+  position: absolute;
+  background-color: #eac89f;
+  left: 1308px;
+  top: 234px;
+  border-left: 3px solid #9b7a4e;
+  border-top: 3px solid #9b7a4e;
+  border-radius: 20px 0px 0px 0px;
+  transition: all 300ms;
+}
 .hall {
   overflow: hidden;
   width: 60px;
@@ -68,7 +78,7 @@ body {
 
 .enter {
   overflow: hidden;
-  width: 143px;
+  width: 146px;
   height: 25px;
   background-color: #b47d74;
   display: block;
@@ -87,22 +97,12 @@ body {
   top: 283px;
 }
 .principal {
-  width: 52px;
+  width: 55px;
   height: 102px;
   position: absolute;
   background-color: #ffb2a8;
   left: 1253px;
   top: 271px;
-  border-radius: 20px 0px 0px 0px;
-}
-.n1 {
-  width: 230px;
-  height: 160px;
-  position: absolute;
-  background-color: #f0c692;
-  left: 1305px;
-  top: 234px;
-  border: 3px solid #9b7a4e;
   border-radius: 20px 0px 0px 0px;
 }
 .library {
@@ -554,7 +554,6 @@ body {
   left: 158px;
   top: 134px;
 }
-
 .prod {
   position: absolute;
   width: 240px;
@@ -580,6 +579,18 @@ body {
   transition: all 300ms;
 }
 .prod p {
+  visibility: hidden;
+}
+.n1:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.n1:hover p {
+  visibility: visible;
+  transition: all 300ms;
+}
+.n1 p {
+  position: absolute;
   visibility: hidden;
 }
 a{
