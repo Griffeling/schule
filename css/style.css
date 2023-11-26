@@ -3,7 +3,18 @@ body {
   background-color: rgb(0, 0, 0);
   position: relative;
 }
-
+.n1 {
+  width: 230px;
+  height: 163px;
+  position: absolute;
+  background-color: #f0c692;
+  left: 1600px;
+  top: 763px;
+  border-left: 3px solid #9b7a4e;
+  border-top: 3px solid #9b7a4e;
+  border-radius: 20px 0px 0px 0px;
+  transition: all 300ms;
+}
 .first {
   position: relative;
   width: 440px;
@@ -47,25 +58,14 @@ body {
 .space1 {
   position: absolute;
   width: 40px;
-  height: 6px;
-  background-color: #f0c692;
+  height: 3px;
+  background-color: rgb(248, 224, 194);
   left: 18px;
-}
-.n1 {
-  width: 230px;
-  height: 163px;
-  position: absolute;
-  background-color: #eac89f;
-  left: 1308px;
-  top: 234px;
-  border-left: 3px solid #9b7a4e;
-  border-top: 3px solid #9b7a4e;
-  border-radius: 20px 0px 0px 0px;
-  transition: all 300ms;
+  top: -3px;
 }
 .hall {
   overflow: hidden;
-  width: 60px;
+  width: 108px;
   height: 64px;
   background-color: #b47d74;
   margin-top: 306px;
@@ -78,7 +78,7 @@ body {
 
 .enter {
   overflow: hidden;
-  width: 146px;
+  width: 142px;
   height: 25px;
   background-color: #b47d74;
   display: block;
@@ -88,26 +88,28 @@ body {
   border: 3px solid #97665e;
 }
 .security {
-  width: 33px;
-  height: 90px;
+  width: 30px;
+  height: 97px;
   background-color: #dbe88f;
   border-radius: 40px 0px 0px 0px;
   position: absolute;
-  left: 1222px;
-  top: 283px;
+  left: 1270px;
+  top: 273px;
+  border: 3px solid #9b7a4e;
 }
 .principal {
-  width: 55px;
-  height: 102px;
+  width: 135px;
+  height: 162px;
   position: absolute;
   background-color: #ffb2a8;
-  left: 1253px;
-  top: 271px;
-  border-radius: 20px 0px 0px 0px;
+  left: 1304px;
+  top: 240px;
+  border-radius: 20px 20px 0px 0px;
+  border: 3px solid #9b7a4e;
 }
 .library {
   position: absolute;
-  width: 90px;
+  width: 144px;
   height: 230px;
   background-color: #f0c692;
   left: 1686px;
@@ -488,7 +490,7 @@ body {
   position: absolute;
   width: 168px;
   height: 170px;
-  background-color: #eac89f;
+  background-color: #f0c692;
   top: 93px;
   border-bottom: 3px solid #9b7a4e;
   border-right: 3px solid #9b7a4e;
@@ -519,7 +521,7 @@ body {
   position: absolute;
   width: 168px;
   height: 170px;
-  background-color: #eac89f;
+  background-color: #f0c692;
   top: 265px;
   border-top: 3px solid #9b7a4e;
   border-right: 3px solid #9b7a4e;
@@ -558,7 +560,7 @@ body {
   position: absolute;
   width: 240px;
   height: 90px;
-  background-color: #eac89f;
+  background-color: #f0c692;
   border-bottom: 3px solid #9b7a4e;
   transition: all 300ms;
 }
