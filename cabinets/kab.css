@@ -717,7 +717,7 @@ body {
 }
 .space19 {
   position: absolute;
-  width: 40px;
+  width: 30px;
   height: 3px;
   background-color: #f0c692;
   transform: scale(4.5);
@@ -737,4 +737,287 @@ body {
   transform-origin: top left;
   left: 23%;
   top: 5%;
+}
+.party51 {
+  position: absolute;
+  width: 15px;
+  height: 41px;
+  background-color: #8a9b85;
+  top: 103px;
+  left: 44px;
+}
+.party52 {
+  position: absolute;
+  width: 31px;
+  height: 15px;
+  background-color: #8a9b85;
+  top: 130px;
+  left: 28px;
+}
+.doska {
+  position: absolute;
+  width: 6px;
+  height: 64px;
+  background-color: #8a9b85;
+  top: 40px;
+}
+.party53 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 120px;
+  left: 62px;
+  transition: all 300ms;
+}
+.party54 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 120px;
+  left: 87px;
+  transition: all 300ms;
+}
+.party55 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 120px;
+  left: 112px;
+  transition: all 300ms;
+}
+.party56 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 120px;
+  left: 137px;
+  transition: all 300ms;
+}
+.party57 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 120px;
+  left: 162px;
+  transition: all 300ms;
+}
+.party58 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 120px;
+  left: 187px;
+  transition: all 300ms;
+}
+.party59 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 68px;
+  left: 62px;
+  transition: all 300ms;
+}
+.party60 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 68px;
+  left: 87px;
+  transition: all 300ms;
+}
+.party61 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 68px;
+  left: 112px;
+  transition: all 300ms;
+}
+.party62 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 68px;
+  left: 137px;
+  transition: all 300ms;
+}
+.party63 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 68px;
+  left: 162px;
+  transition: all 300ms;
+}
+.party64 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 68px;
+  left: 187px;
+  transition: all 300ms;
+}
+.party65 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 20px;
+  left: 62px;
+  transition: all 300ms;
+}
+.party66 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 20px;
+  left: 87px;
+  transition: all 300ms;
+}
+.party67 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 20px;
+  left: 112px;
+  transition: all 300ms;
+}
+.party68 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 20px;
+  left: 137px;
+  transition: all 300ms;
+}
+.party69 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 20px;
+  left: 162px;
+  transition: all 300ms;
+}
+.party70 {
+  cursor: pointer;
+  position: absolute;
+  width: 15px;
+  height: 25px;
+  background-color: #9c958cb6;
+  top: 20px;
+  left: 187px;
+  transition: all 300ms;
+}
+.shkaf7 {
+  position: absolute;
+  width: 9px;
+  height: 124px;
+  background-color: #c68866;
+  top: 20px;
+  left: 221px;
+}
+.party53:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party54:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party55:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party56:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party57:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party58:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party59:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party60:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party61:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party62:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party63:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party64:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party65:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party66:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party67:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party68:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party69:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.party70:hover {
+  transform: scale(1.1);
+  z-index: 1;
 }
