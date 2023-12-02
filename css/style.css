@@ -4,12 +4,12 @@ body {
   position: relative;
 }
 .n1 {
-  width: 230px;
+  width: 237px;
   height: 163px;
   position: absolute;
   background-color: #f0c692;
-  left: 1600px;
-  top: 763px;
+  left: 1444px;
+  top: 234px;
   border-left: 3px solid #9b7a4e;
   border-top: 3px solid #9b7a4e;
   border-radius: 20px 0px 0px 0px;
@@ -21,7 +21,7 @@ body {
   height: 440px;
   background-color: rgb(248, 224, 194);
   display: block;
-  margin-left: 1152px;
+  margin-left: 1081px;
   margin-top: 0px;
 }
 .second {
@@ -33,13 +33,13 @@ body {
   height: 88px;
   background-color: rgb(248, 224, 194);
   display: block;
-  margin-left: 1323px;
+  margin-left: 1252px;
   /* margin-top: 0px; */
 }
 
 .third {
   overflow: hidden;
-  width: 1541px;
+  width: 1684px;
   height: 400px;
   background-color: rgb(248, 224, 194);
   display: block;
@@ -53,7 +53,7 @@ body {
   height: 3px;
   background-color: #f0c692;
   top: -3px;
-  left: 30px;
+  left: 140px;
 }
 .space1 {
   position: absolute;
@@ -112,8 +112,7 @@ body {
   width: 144px;
   height: 230px;
   background-color: #f0c692;
-  left: 1686px;
-  top: 528px;
+  left: 1537px;
   border-bottom: 3px solid #9b7a4e;
   border-right: 3px solid #9b7a4e;
   border-top: 3px solid #9b7a4e;
@@ -135,14 +134,14 @@ body {
   width: 26px;
   height: 160px;
   background-color: #f0c692;
-  left: 1503px;
+  left: 1508px;
   top: 0px;
   border: 3px solid #9b7a4e;
   border-radius: 0px 0px 0px 20px;
 }
 .head_teacher1 {
   position: absolute;
-  width: 77px;
+  width: 82px;
   height: 160px;
   background-color: #b29feaa1;
   border: 3px solid #9b7a4e;
@@ -214,6 +213,7 @@ body {
   border-radius: 0px 20px 0px 0px;
 }
 .n7 {
+  transition: all 300ms;
   position: absolute;
   width: 230px;
   height: 160px;
@@ -282,11 +282,11 @@ body {
 }
 .space2 {
   position: absolute;
-  width: 60px;
+  width: 40px;
   height: 3px;
   background-color: #f0c692;
   top: 160px;
-  right: 140px;
+  left: 140px;
 }
 .space4 {
   position: absolute;
@@ -661,6 +661,18 @@ a{
   z-index: 1;
 }
 .n6:hover p {
+  visibility: visible;
+  transition: all 300ms;
+}
+.n7 p{
+  position: absolute;
+  visibility: hidden;
+}
+.n7:hover {
+  transform: scale(1.1);
+  z-index: 1;
+}
+.n7:hover p {
   visibility: visible;
   transition: all 300ms;
 }
