@@ -17,7 +17,7 @@ body {
 }
 .first {
   position: relative;
-  width: 440px;
+  width: 480px;
   height: 440px;
   background-color: rgb(248, 224, 194);
   display: block;
@@ -101,7 +101,7 @@ body {
   width: 135px;
   height: 162px;
   position: absolute;
-  background-color: #D9705D;
+  background-color: #d9705d;
   left: 1304px;
   top: 240px;
   border-radius: 20px 20px 0px 0px;
@@ -600,11 +600,11 @@ body {
   position: absolute;
   visibility: hidden;
 }
-a{
+a {
   cursor: pointer;
   scale: 5;
 }
-.n2 p{
+.n2 p {
   position: absolute;
   visibility: hidden;
 }
@@ -616,7 +616,7 @@ a{
   visibility: visible;
   transition: all 300ms;
 }
-.n3 p{
+.n3 p {
   position: absolute;
   visibility: hidden;
 }
@@ -628,7 +628,7 @@ a{
   visibility: visible;
   transition: all 300ms;
 }
-.n4 p{
+.n4 p {
   position: absolute;
   visibility: hidden;
 }
@@ -640,7 +640,7 @@ a{
   visibility: visible;
   transition: all 300ms;
 }
-.n5 p{
+.n5 p {
   position: absolute;
   visibility: hidden;
 }
@@ -652,7 +652,7 @@ a{
   visibility: visible;
   transition: all 300ms;
 }
-.n6 p{
+.n6 p {
   position: absolute;
   visibility: hidden;
 }
@@ -664,7 +664,7 @@ a{
   visibility: visible;
   transition: all 300ms;
 }
-.n7 p{
+.n7 p {
   position: absolute;
   visibility: hidden;
 }
@@ -675,4 +675,11 @@ a{
 .n7:hover p {
   visibility: visible;
   transition: all 300ms;
+}
+.stolovka {
+  position: absolute;
+  width: 240px;
+  height: 440px;
+  background-color: #d4a970bd;
+  left: 240px;
 }
